@@ -1,7 +1,7 @@
 Topics:
   Grid/flex concept, Row, Columns
 
-  Grid-Sysytem:
+  Grid-Sysytem: dividing the width into 12 columns
     12 Column System
       col-1 ---> 12 / 1 ---> 12 width ---> 100 / 12 ---> 8.33333
       col-2 ---> 12 / 2 ---> 6  width ---> 100 / 6  ---> 16.6667
